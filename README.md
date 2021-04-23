@@ -1,6 +1,6 @@
 ## Cross-term-compensated gradient waveform design for tensor-valued diffusion MRI
 
-Filip Szczepankiewicz1 Jens Sjölund2
+Filip Szczepankiewicz<sup>1,*</sup> Jens Sjölund<sup>2</sup>
 
 1. Clinical Sciences Lund, Lund University, Lund, Sweden
 2. Department of Information Technology, Uppsala University, Uppsala, Sweden
